@@ -6,7 +6,7 @@ Repo for the course "Programming 101 with Python", starting March 2018
 
 The course is about learning how to write software with Python. It's perfect for people that are going to start as junior developers afterwards.
 
-Key things, that are going to be covered in the course:
+Key topics, that are going to be covered in the course:
 
 * Working with Linux-based operating system.
 * The Python programming language.
